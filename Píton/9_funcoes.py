@@ -1,4 +1,7 @@
 #Funções
+
+# https://youtu.be/NJzzyMiq2ro?si=iMYGyAfxmkDuXlB_
+
 #Para chamar uma função usamos def e então a função.
 
 def minha_funcao():

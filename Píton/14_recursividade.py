@@ -1,4 +1,6 @@
 # Recursão é uma técnica de programação onde uma função 
+
+# https://youtu.be/GZJ8A3D-ESQ?si=zpRKP1dD_RJYElAA
 # chama a si mesma para resolver um problema.
 
 def fatorial(n):
@@ -36,3 +38,8 @@ if __name__ == "__main__":
 # Em Python, o limite padrão de recursão é 1000 chamadas.
 # É possível alterar esse limite usando o módulo sys, mas deve-se ter cautela ao fazer isso.
 # numeros negativos ou não inteiros não são aceitos na função fatorial acima.   
+
+
+# recursão é um tema bem complicado e requer prática, mas é uma ferramenta poderosa na programação.
+
+# material basico complementar: https://youtu.be/qUe36p4P2CI?si=mISjbLvCdxrrKjFd

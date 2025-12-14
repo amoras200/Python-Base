@@ -1,4 +1,5 @@
-#Loops " Enquanto isso acontecer. Faça isso" ;  " Se isso Acontecer, Faça isso. "
+# https://youtu.be/gZBV7FlHDtg?si=BOexHfmrLVRnCURI
+# Loops " Enquanto isso acontecer. Faça isso" ;  " Se isso Acontecer, Faça isso. "
 
 # Loops infinitos - Quando algo é ordenado a acontecer enquanto algo imutavel acontece. Por exemplo:
 
