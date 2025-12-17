@@ -21,7 +21,7 @@ Fornecer uma trilha clara para aprender Python desde conceitos básicos até tó
    - Conversão de Tipos (Type Casting)
    - Exceções
    - Funções, Funções Embutidas
-   - Listas, Tuplas, Conjuntos
+   - Listas, Tuplas, Conjuntosgit
    - Dicionários
    - Laços de Repetição (Loops)
 

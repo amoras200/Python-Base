@@ -1,0 +1,63 @@
+"""Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:
+a) a área do triângulo retângulo que tem A por base e C por altura.
+b) a área do círculo de raio C. (pi = 3.14159)
+c) a área do trapézio que tem A e B por bases e C por altura.
+d) a área do quadrado que tem lado B.
+e) a área do retângulo que tem lados A e B.
+
+Entrada
+O arquivo de entrada contém três valores com um dígito após o ponto decimal.
+
+Saída
+O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a uma das áreas descritas acima, sempre com mensagem correspondente e um espaço entre os dois pontos e o valor. O valor calculado deve ser apresentado com 3 dígitos após o ponto decimal.
+
+Exemplos de Entrada
+3.0 4.0 5.2
+
+Exemplos de Saída
+TRIANGULO: 7.800
+CIRCULO: 84.949
+TRAPEZIO: 18.200
+QUADRADO: 16.000
+RETANGULO: 12.000"""
+
+# Resolva:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print("Exemplo de solução:")
+# Solução:
+ABC = input().split()
+A = float(ABC[0])
+B = float(ABC[1])
+C = float(ABC[2])
+
+pi = 3.14159 
+TRIANGULO = (A * C) / 2
+CIRCULO = (C*C) * pi
+TRAPEZIO = ((A+B) * C) / 2
+QUADRADO = B*B
+RETANGULO = A*B
+
+print(f"""TRIANGULO: {TRIANGULO:.3f}
+CIRCULO: {CIRCULO:.3f}
+TRAPEZIO: {TRAPEZIO:.3f}
+QUADRADO: {QUADRADO:.3f}
+RETANGULO: {RETANGULO:.3f}""")
