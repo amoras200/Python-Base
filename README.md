@@ -1,6 +1,39 @@
 # Roadmap Python 🐍
 
-Este repositório é um espaço pessoal de estudos em Python que organiza exercícios, anotações e material complementar enquanto você progride no aprendizado.
+<div align="center">
+
+# Python: Guia e Exercícios
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+
+**Guia prático de Python: conceitos, exercícios e projetos**
+
+[Documentação Oficial](https://docs.python.org/3/) • [PyPI](https://pypi.org/) • [Recursos Alura](https://www.alura.com.br/search?query=python)
+
+</div>
+
+---
+
+## Sobre o Projeto
+
+Este repositório reúne um conjunto de exercícios, anotações e exemplos práticos para estudar Python suficientes para formar uma base forte. Organizado por tópicos e níveis de dificuldade. O material inclui exercícios resolvidos, notebooks e scripts para praticar conceitos desde o básico até tópicos mais avançados.
+
+**O que você vai aprender:**
+- Sintaxe e estruturas de controle
+- Tipos de dados e coleções
+- Funções e módulos
+- Programação orientada a objetos
+- Testes e boas práticas
+- Manipulação de arquivos e I/O
+- Ambientes virtuais e gerenciamento de dependências
+- Bibliotecas comuns e ferramentas de produtividade
+
+**Pré-requisitos:**
+- Sistema operacional Linux, Windows ou macOS
+- Conhecimentos básicos de terminal/linha de comando
+- Python 3 instalado (guia de instalação na documentação oficial)
+
+---
 
 ## Objetivo
 
@@ -45,6 +78,8 @@ Fornecer uma trilha clara para aprender Python desde conceitos básicos até tó
    - Classes
    - Herança
    - Métodos e Dunder Methods
+
+Acesse o repositorio: [Repositorio Parte 1 (pós base)](https://github.com/amoras1601/Carreira-Dev-Back-End-Python-Alura-Parte-1)
 
 5. Gerenciadores de Pacotes
    - PyPI / Pip
