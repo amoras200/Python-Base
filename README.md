@@ -79,7 +79,7 @@ Fornecer uma trilha clara para aprender Python desde conceitos básicos até tó
    - Herança
    - Métodos e Dunder Methods
 
-Acesse o repositorio: [Repositorio Parte 1 (pós base)](https://github.com/amoras1601/Carreira-Dev-Back-End-Python-Alura-Parte-1)
+Acesse o repositorio: [Repositorio Parte 1 (pós base)](https://github.com/amoras1601/Carreira-Dev-Back-End-Python-Alura)
 
 5. Gerenciadores de Pacotes
    - PyPI / Pip
