@@ -18,6 +18,8 @@
 
 Este repositório reúne um conjunto de exercícios, anotações e exemplos práticos para estudar Python suficientes para formar uma base forte. Organizado por tópicos e níveis de dificuldade. O material inclui exercícios resolvidos, notebooks e scripts para praticar conceitos desde o básico até tópicos mais avançados.
 
+É recomendado ultilizar venv em algumas partes do projeto
+
 **O que você vai aprender:**
 - Sintaxe e estruturas de controle
 - Tipos de dados e coleções
@@ -37,7 +39,7 @@ Este repositório reúne um conjunto de exercícios, anotações e exemplos prá
 
 ## Objetivo
 
-Fornecer uma trilha clara para aprender Python desde conceitos básicos até tópicos avançados, com exemplos práticos, exercícios e recursos externos (vídeos, artigos e referências) agrupados por tema.
+Fornecer uma trilha clara para aprender Python desde conceitos básicos até tópicos avançados, com exemplos práticos, exercícios e recursos externos (vídeos, artigos e referências) agrupados por tema. Reuni materiais diversos que encontrei durante minha trilha autodidata no aprendizado da linguagem.
 
 ## Como usar este repositório
 
@@ -79,7 +81,6 @@ Fornecer uma trilha clara para aprender Python desde conceitos básicos até tó
    - Herança
    - Métodos e Dunder Methods
 
-Acesse o repositorio: [Repositorio Parte 1 (pós base)](https://github.com/amoras1601/Carreira-Dev-Back-End-Python-Alura)
 
 5. Gerenciadores de Pacotes
    - PyPI / Pip
@@ -101,6 +102,7 @@ Acesse o repositorio: [Repositorio Parte 1 (pós base)](https://github.com/amora
 
 9. Ambientes & Configuração
    - pyproject.toml, Pipenv, virtualenv, configurações de projeto
+   
 
 
 ## Boas práticas e convenções
