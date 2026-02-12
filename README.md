@@ -1,5 +1,3 @@
-# Roadmap Python 🐍
-
 <div align="center">
 
 # Python: Guia e Exercícios
